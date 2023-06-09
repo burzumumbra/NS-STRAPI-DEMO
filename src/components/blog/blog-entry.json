@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_blog_blog_entries",
+  "info": {
+    "displayName": "BlogEntry",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Tag": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "date"
+    },
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}
